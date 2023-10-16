@@ -1,6 +1,6 @@
 # Pregunta 13 ;)
 
-## Descripcióm
+## Descripción
 
 Este repositorio contiene la solución nº13 de la hoja de preguntas
 
